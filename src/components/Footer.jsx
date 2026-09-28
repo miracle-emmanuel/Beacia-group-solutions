@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import { MessageCircle, Mail, MapPin, Phone } from 'lucide-react'
 // import LogoMark from './LogoMark'
-import Logo from '../img/logo.png'
+import Logo from '../../src/img/Logo.png'
 import { siteConfig } from '../data/siteConfig'
 import { categories } from '../data/products'
 
