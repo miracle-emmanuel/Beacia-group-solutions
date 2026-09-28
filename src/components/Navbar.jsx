@@ -36,14 +36,14 @@ export default function Navbar() {
         <Link to="/" className="flex items-center gap-2" onClick={() => setMobileOpen(false)}>
           {/* <LogoMark className="h-11 w-11" /> */}
           <img src={Logo} alt="" className="h-12 w-28"  />
-          <span className="flex flex-col leading-none max-sm:hidden">
+          {/* <span className="flex flex-col leading-none max-sm:hidden">
             <span className="font-[var(--font-display)] text-2xl font-semibold tracking-wide text-[var(--color-espresso)] dark:text-[var(--color-ivory)]">
               Beacia
             </span>
             <span className="text-[8px] uppercase tracking-[0.25em] text-[var(--color-cognac)] dark:text-[var(--color-gold-light)]">
               Group Solutions Ltd
             </span>
-          </span>
+          </span> */}
         </Link>
 
         {/* Desktop nav */}
