@@ -6,7 +6,7 @@ import { useTheme } from '../context/ThemeContext'
 import { useCart } from '../context/CartContext'
 import { categories } from '../data/products'
 // import LogoMark from './LogoMark'
-import Logo from '../img/logo.png'
+import Logo from '../../src/img/Logo.png'
 
 const navLinkBase =
   'text-sm tracking-wide transition-colors duration-300 hover:text-[var(--color-gold)]'
