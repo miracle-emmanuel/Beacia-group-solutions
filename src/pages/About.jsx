@@ -49,7 +49,7 @@ export default function About() {
           Beacia Group Solutions Ltd started with a simple belief: looking and feeling your best
           shouldn't mean compromising on quality. What began as a small hair supply business in
           the UK has grown into a full lifestyle brand spanning hair, jewelry and fragrance —
-          trusted by customers across London and beyond.
+          trusted by customers across Manchester and beyond.
         </motion.p>
       </section>
 
