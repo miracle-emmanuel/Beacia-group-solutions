@@ -5,7 +5,7 @@ export const siteConfig = {
   tagline: 'Hair. Fragrance. Fine Jewelry. Hair products.',
   // Replace with the real UK WhatsApp business number, digits only, with country code (44...)
   whatsappNumber: '447869178706',
-  email: ':Beaciagroupsolutionsltd @Gmail.com',
+  email: 'Beaciagroupsolutionsltd@Gmail.com',
   phone: '+447869178706',
   address: '48A Walker St, Nottingham NG2 4QS, United Kingdom',
   instagram: 'https://www.instagram.com/beacia_26?stkn=NzNrMGowODJyMW9uhttps://www.instagram.com/invites/contact/?utm_content=w8dem0e&stkn=uunmmdo7nntn',
