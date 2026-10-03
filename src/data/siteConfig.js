@@ -2,7 +2,7 @@
 export const siteConfig = {
   name: 'Beacia Group Solutions Ltd',
   shortName: 'Beacia',
-  tagline: 'Hair. Fragrance. Fine Jewelry,Hair products.',
+  tagline: 'Hair. Fragrance. Fine Jewelry. Hair products.',
   // Replace with the real UK WhatsApp business number, digits only, with country code (44...)
   whatsappNumber: '447869178706',
   email: ':Beaciagroupsolutionsltd @Gmail.com',
